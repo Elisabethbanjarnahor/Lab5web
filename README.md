@@ -10,3 +10,8 @@
 ## foto2 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/4aa1f660ab36abd7124ea3c5db24c3d3018bc76d/FOTO%20SS/Screenshot%202025-10-22%20110418.png)
 
+## foto3 ##
+![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/0e2f0e8e5436c5fa3d744371e9322b461130212a/FOTO%20SS/Screenshot%202025-10-22%20110625.png)
+
+## foto4 ##
+[foto]()
