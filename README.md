@@ -26,7 +26,20 @@
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/d911e9499003a892a758182243f28a451d6e8f17/FOTO%20SS/Screenshot%202025-10-22%20112912.png)
 
 ## foto8 ##
+![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/f748180cf45d001333f0318c00db50c8955149dd/FOTO%20SS/Screenshot%202025-10-22%20113237.png)
+
+## foto9 ##
 ![foto]()
+
+## foto10 ##
+![foto]()
+
+## foto11 ##
+![foto]()
+
+## foto12 ##
+![foto]()
+
 
 
 
