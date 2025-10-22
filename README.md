@@ -67,6 +67,17 @@ document.write("Hai, " + nama + "! ..."); → menampilkan hasil input di halaman
 ## foto6 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/373fda9986913ae5dce36f59d95f06171616e175/FOTO%20SS/Screenshot%202025-10-22%20112635.png)
 
+```Penjelasan:
+
+function pesan() → mendefinisikan fungsi bernama pesan.
+
+alert("Memanggil fungsi JavaScript"); → menampilkan kotak pesan saat fungsi dijalankan.
+
+Tombol <input type="button"> dipakai untuk memanggil fungsi saat diklik.
+→ onclick="pesan()" artinya tombol itu akan menjalankan fungsi pesan().
+```
+
+
 ## foto7 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/d911e9499003a892a758182243f28a451d6e8f17/FOTO%20SS/Screenshot%202025-10-22%20112912.png)
 
