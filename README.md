@@ -81,6 +81,16 @@ Tombol <input type="button"> dipakai untuk memanggil fungsi saat diklik.
 ## foto7 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/d911e9499003a892a758182243f28a451d6e8f17/FOTO%20SS/Screenshot%202025-10-22%20112912.png)
 
+```Penjelasan:
+
+var nilai1 = 10; var nilai2 = 5; → mendefinisikan dua variabel angka.
+
++ - * / → operator aritmatika (penjumlahan, pengurangan, perkalian, pembagian).
+
+document.write() → menampilkan hasil di halaman web.
+```
+
+
 ## foto8 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/f748180cf45d001333f0318c00db50c8955149dd/FOTO%20SS/Screenshot%202025-10-22%20113237.png)
 
