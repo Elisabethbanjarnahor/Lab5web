@@ -14,7 +14,17 @@
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/0e2f0e8e5436c5fa3d744371e9322b461130212a/FOTO%20SS/Screenshot%202025-10-22%20110625.png)
 
 ## foto4 ##
-[foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/a92e4ad47c2c55e33d0c4eafff10b4f3d923b8d4/FOTO%20SS/Screenshot%202025-10-22%20111039.png)
+![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/a92e4ad47c2c55e33d0c4eafff10b4f3d923b8d4/FOTO%20SS/Screenshot%202025-10-22%20111039.png)
 
 ## foto5 ##
-[foto]()
+[foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/0ded3bf48efd1c3f4b476de9f59228b264b6c756/FOTO%20SS/Screenshot%202025-10-22%20111715.png)
+
+## foto6 ##
+![foto]()
+
+
+
+
+
+
+
