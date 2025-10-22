@@ -94,6 +94,16 @@ document.write() → menampilkan hasil di halaman web.
 ## foto8 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/f748180cf45d001333f0318c00db50c8955149dd/FOTO%20SS/Screenshot%202025-10-22%20113237.png)
 
+```Penjelasan:
+
+prompt("Masukkan nilai Anda:") → minta input dari pengguna.
+
+if (nilai >= 60) → kalau nilainya 60 ke atas, berarti Lulus, kalau nggak, Tidak Lulus.
+
+document.write() → menampilkan hasilnya di halaman web.
+```
+
+
 ## foto9 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/1b2c94fe0794f248309dcfd981d09ef69dcf1e2c/FOTO%20SS/Screenshot%202025-10-22%20113521.png)
 
