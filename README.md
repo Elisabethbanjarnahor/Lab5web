@@ -148,7 +148,16 @@ return true; → lanjut kirim (atau tampil pesan sukses) kalau semua terisi.
 
 ## foto12 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/4c9c31ed4ec3526aa0e2cd1364750b1f8523a4e5/FOTO%20SS/Screenshot%202025-10-22%20115252.png)
+```Penjelasan:
 
+Setiap menu punya checkbox dan harga (value).
+
+Saat checkbox diklik (onclick="hitungTotal()"), fungsi hitungTotal() dijalankan.
+
+Fungsi itu menghitung semua checkbox yang dipilih, lalu menjumlahkan harganya.
+
+Hasilnya ditampilkan otomatis di <span id="total">.
+```
 
 
 
