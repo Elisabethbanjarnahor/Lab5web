@@ -135,6 +135,17 @@ document.write() → tampilkan hasil di halaman.
 ## foto11 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/5bae62b75a15336f7e6b7fc7de7a222cb4a016b8/FOTO%20SS/Screenshot%202025-10-22%20114307.png)
 
+```Penjelasan:
+
+onsubmit="return validasi()" → saat tombol Kirim ditekan, fungsi validasi() dijalankan dulu.
+
+if (nama == "" || email == "") → kalau salah satu kosong, tampilkan alert peringatan.
+
+return false; → menghentikan pengiriman form kalau data belum lengkap.
+
+return true; → lanjut kirim (atau tampil pesan sukses) kalau semua terisi.
+```
+
 ## foto12 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/4c9c31ed4ec3526aa0e2cd1364750b1f8523a4e5/FOTO%20SS/Screenshot%202025-10-22%20115252.png)
 
