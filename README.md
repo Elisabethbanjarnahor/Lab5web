@@ -54,6 +54,16 @@ document.write() digunakan untuk menulis langsung ke halaman web.
 ## foto5 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/0ded3bf48efd1c3f4b476de9f59228b264b6c756/FOTO%20SS/Screenshot%202025-10-22%20111715.png)
 
+```window.prompt("Siapa nama Anda?", ""); → munculin kotak input ke pengguna untuk ngetik nama.
+
+Nilai yang kamu ketik disimpan ke variabel nama.
+
+document.write("Hai, " + nama + "! ..."); → menampilkan hasil input di halaman web.
+
+<!-- ... //--> → cuma gaya lama dari HTML supaya browser lama gak bingung (sekarang gak wajib, tapi tetap sama seperti di modul).
+```
+
+
 ## foto6 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/373fda9986913ae5dce36f59d95f06171616e175/FOTO%20SS/Screenshot%202025-10-22%20112635.png)
 
