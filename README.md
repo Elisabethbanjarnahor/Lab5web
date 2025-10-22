@@ -107,6 +107,17 @@ document.write() → menampilkan hasilnya di halaman web.
 ## foto9 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/1b2c94fe0794f248309dcfd981d09ef69dcf1e2c/FOTO%20SS/Screenshot%202025-10-22%20113521.png)
 
+```Penjelasan:
+
+switch (nilai) → memeriksa isi variabel nilai.
+
+case "1": sampai case "5": → kondisi yang dicek.
+
+break; → menghentikan pemeriksaan agar tidak lanjut ke case lain.
+
+default: → digunakan kalau input tidak cocok dengan case manapun.
+```
+
 ## foto10 ##
 ![foto](https://github.com/Elisabethbanjarnahor/Lab5web/blob/f78d07e1e865e21080e50317f8e8aea822e4dd30/FOTO%20SS/Screenshot%202025-10-22%20113952.png)
 
